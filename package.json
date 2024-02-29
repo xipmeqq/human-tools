@@ -1,0 +1,19 @@
+{
+  "name": "tea-chunk-js",
+  "version": "1.0.0",
+  "description": "A lightweight utility function to split arrays into chunks of specified size, similar to lodash.chunk.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "keywords": [],
+  "repository": "https://github.com/tea2win/tea-chunk-js",
+  "author": "tea2win",
+  "license": "ISC"
+}
