@@ -1,6 +1,6 @@
 # tea-chunk-js
 
-`tea-chunk-js` is a lightweight utility function for splitting arrays into chunks of a specified size. It's designed to be simple and straightforward, similar to the `_.chunk` function in lodash, but as a standalone module with no dependencies, making it perfect for projects where you want to keep your bundle size small.
+`tea-chunk-js` is designed to be simple and straightforward, similar to the `_.chunk` function in lodash, but as a standalone module with no dependencies, making it perfect for projects where you want to keep your bundle size small.
 
 ## Installation
 
