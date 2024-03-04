@@ -25,6 +25,6 @@ const myArray = [1, 2, 3, 4, 5, 6];
 // Split into chunks of 2
 const result = chunk(myArray, 2);
 
-console.log(result);
 // Output: [[1, 2], [3, 4], [5, 6]]
+console.log(result);
 ```
