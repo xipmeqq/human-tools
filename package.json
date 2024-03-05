@@ -1,6 +1,6 @@
 {
   "name": "tea-chunk-js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight utility function, similar to lodash.chunk.",
   "main": "src/index.js",
   "directories": {
@@ -8,6 +8,9 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "tea-compact-js": "^1.0.4"
   },
   "devDependencies": {
     "jest": "^27.0.0"
